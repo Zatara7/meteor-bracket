@@ -1,8 +1,8 @@
 Package.describe({
   name: 'zatara7:jquery-bracket',
-  version: '0.7.3',
+  version: '0.7.3-1',
   // Brief, one-line summary of the package.
-  summary: 'jQuery bracket is a jQuery plugin that lets users create and display single and double elimination brackets for tournament play.',
+  summary: 'A jQuery plugin that lets users manage single & double elimination brackets for tournament play.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/Zatara7/meteor-bracket.git',
   // By default, Meteor will default to using README.md for documentation.
