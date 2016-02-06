@@ -1,0 +1,3 @@
+[submodule "jquery-bracket"]
+	path = jquery-bracket
+	url = https://github.com/teijo/jquery-bracket
