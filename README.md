@@ -1,4 +1,4 @@
-JQuery Bracket v.0.8.0 for Meteor
+JQuery Bracket v.0.11.0 for Meteor
 ==============
 
 teijo's jquery [Bracket](https://github.com/teijo/jquery-bracket) jQuery plugin for managing single/dobule eleminiation tournaments, packaged for [Meteor](https://www.meteor.com/)
